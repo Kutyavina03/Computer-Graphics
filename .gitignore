@@ -1,0 +1,6 @@
+# Папка VS
+.vs/
+
+# Кеш Python
+__pycache__/
+*.pyc
